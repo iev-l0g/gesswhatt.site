@@ -34,7 +34,7 @@ const CONFIG = {
         },
         third: {
             text: "i have something for youu. pick one", // The big question!
-            yesBtn: "something i write about you earlier",                                             // Text for "Yes" button
+            yesBtn: "something i wrote about you earlier",                                             // Text for "Yes" button
             noBtn: "pick anything of your choice"                                                 // Text for "No" button
         }
     },
